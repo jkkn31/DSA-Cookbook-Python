@@ -27,6 +27,18 @@ The repository covers problems from the Blind 75 list, categorized into several 
 - Search in Rotated Sorted Array - [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/) ✅
 - 3Sum - [Medium](https://leetcode.com/problems/3sum/) ✅ ⭐
 - Container With Most Water - [Medium](https://leetcode.com/problems/container-with-most-water/) ✅ ⭐
+  
+### String
+- Longest Substring Without Repeating Characters - [Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✅ ⭐
+- Longest Repeating Character Replacement - [Medium](https://leetcode.com/problems/longest-repeating-character-replacement/) ✅ ⭐
+- Minimum Window Substring - [Hard](https://leetcode.com/problems/minimum-window-substring/) ✅ ⭐
+- Valid Anagram - [Easy](https://leetcode.com/problems/valid-anagram/) ✅
+- Group Anagrams - [Medium](https://leetcode.com/problems/group-anagrams/) ✅ ⭐
+- Valid Parentheses - [Easy](https://leetcode.com/problems/valid-parentheses/) ✅
+- Valid Palindrome - [Easy](https://leetcode.com/problems/valid-palindrome/) ✅
+- Longest Palindromic Substring - [Medium](https://leetcode.com/problems/longest-palindromic-substring/) ✅ ⭐
+- Palindromic Substrings - [Medium](https://leetcode.com/problems/palindromic-substrings/) ✅
+- Encode and Decode - [Hard](https://leetcode.com/problems/encode-and-decode-strings/) ✅ ⭐
 
 ### Binary
 - Sum of Two Integers - [Easy](https://leetcode.com/problems/sum-of-two-integers/) ✅
@@ -34,6 +46,14 @@ The repository covers problems from the Blind 75 list, categorized into several 
 - Counting Bits - [Easy](https://leetcode.com/problems/counting-bits/) ✅
 - Missing Number - [Easy](https://leetcode.com/problems/missing-number/) ✅
 - Reverse Bits - [Easy](https://leetcode.com/problems/reverse-bits/) ✅
+
+### Linked List
+- Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/) ✅
+- Detect Cycle in a Linked List - [Medium](https://leetcode.com/problems/linked-list-cycle/) ✅
+- Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/) ✅
+- Merge K Sorted Lists - [Hard](https://leetcode.com/problems/merge-k-sorted-lists/)
+- Remove Nth Node From End Of List - [Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ✅
+- Reorder List - [Medium](https://leetcode.com/problems/reorder-list/) ✅
 
 ### Dynamic Programming
 - Climbing Stairs - [Easy](https://leetcode.com/problems/climbing-stairs/) ✅
@@ -65,13 +85,6 @@ The repository covers problems from the Blind 75 list, categorized into several 
 - Meeting Rooms (Leetcode Premium) - [Medium](https://leetcode.com/problems/meeting-rooms/)
 - Meeting Rooms II (Leetcode Premium) - [Hard](https://leetcode.com/problems/meeting-rooms-ii/)
 
-### Linked List
-- Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/) ✅
-- Detect Cycle in a Linked List - [Medium](https://leetcode.com/problems/linked-list-cycle/) ✅
-- Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/) ✅
-- Merge K Sorted Lists - [Hard](https://leetcode.com/problems/merge-k-sorted-lists/)
-- Remove Nth Node From End Of List - [Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ✅
-- Reorder List - [Medium](https://leetcode.com/problems/reorder-list/) ✅
 
 ### Matrix
 - Set Matrix Zeroes - [Medium](https://leetcode.com/problems/set-matrix-zeroes/) ✅
@@ -79,17 +92,6 @@ The repository covers problems from the Blind 75 list, categorized into several 
 - Rotate Image - [Medium](https://leetcode.com/problems/rotate-image/) ✅
 - Word Search - [Medium](https://leetcode.com/problems/word-search/) ✅
 
-### String
-- Longest Substring Without Repeating Characters - [Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ✅ ⭐
-- Longest Repeating Character Replacement - [Medium](https://leetcode.com/problems/longest-repeating-character-replacement/) ✅ ⭐
-- Minimum Window Substring - [Hard](https://leetcode.com/problems/minimum-window-substring/) ✅ ⭐
-- Valid Anagram - [Easy](https://leetcode.com/problems/valid-anagram/) ✅
-- Group Anagrams - [Medium](https://leetcode.com/problems/group-anagrams/) ✅ ⭐
-- Valid Parentheses - [Easy](https://leetcode.com/problems/valid-parentheses/) ✅
-- Valid Palindrome - [Easy](https://leetcode.com/problems/valid-palindrome/) ✅
-- Longest Palindromic Substring - [Medium](https://leetcode.com/problems/longest-palindromic-substring/) ✅ ⭐
-- Palindromic Substrings - [Medium](https://leetcode.com/problems/palindromic-substrings/) ✅
-- Encode and Decode - [Hard](https://leetcode.com/problems/encode-and-decode-strings/) ✅ ⭐
 
 ### Tree
 - Maximum Depth of Binary Tree - [Easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ✅
