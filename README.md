@@ -114,7 +114,7 @@ The repository covers problems from the Blind 75 list, categorized into several 
 
 ## How to Use
 
-Each problem is categorized into different topics and includes a link to the LeetCode problem statement. You can explore each Python file in the `solutions/` directory for detailed explanations and implementations.
+Each problem is categorized into different topics and includes a link to the LeetCode problem statement. You can explore each Python file in the `topic-wise-directory/` directory for detailed explanations and implementations.
 
 ## Contributing
 
@@ -123,7 +123,3 @@ Feel free to contribute by submitting pull requests or reporting issues. Contrib
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This should help in categorizing and understanding the difficulty levels of the problems in the Blind 75 list!
